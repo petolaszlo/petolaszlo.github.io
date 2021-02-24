@@ -25,7 +25,7 @@ $(function (){
         {
             slika: 'split.jpg',
             titlova: 'Split',
-            tekst: 'Varaždin je grad u sjeverozapadnoj Hrvatskoj smješten uz obalu rijeke Drave, povijesno, kulturno, obrazovno, gospodarsko, sportsko i turističko središte Varaždinske županije, najstarije županije u Hrvatskoj. Split je gospodarsko i kulturno središte Dalmacije.'
+            tekst: 'Split je najveći grad u Dalmaciji, te po broju stanovnika i drugi najveći grad u Hrvatskoj.. Split je gospodarsko i kulturno središte Dalmacije.'
             ,mini: 'splitmini.jpg',
             grad: 'Split'
         },
